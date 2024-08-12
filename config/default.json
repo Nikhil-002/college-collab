@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin:P7eFa52WEyXJYI70@cluster0.2jxd9ic.mongodb.net/college-collab",
+    "jwtSecret": "secret"
+}
