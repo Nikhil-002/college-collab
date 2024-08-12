@@ -2,5 +2,3 @@
     "mongoURI": "mongodb+srv://admin:P7eFa52WEyXJYI70@cluster0.2jxd9ic.mongodb.net/college-collab",
     "jwtSecret": "secret"
 }
-
-//   mongodb://admin:P7eFa52WEyXJYI70@ac-a7qjois-shard-00-02.2jxd9ic.mongodb.net:27017,ac-a7qjois-shard-00-00.2jxd9ic.mongodb.net:27017,ac-a7qjois-shard-00-01.2jxd9ic.mongodb.net:27017/college-collab?authSource=admin&replicaSet=atlas-rkdhi1-shard-0&ssl=true
